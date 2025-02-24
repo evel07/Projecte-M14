@@ -30,7 +30,7 @@ Aquest document definirà els registres, prioritats i classificacions de les ini
 
 [Enllaç al document d'anàlisi de riscos](https://docs.google.com/spreadsheets/d/1dkS1hjHjmgNUccRZiNJE737dglgypASPBg6EmL8X3DU/edit?usp=sharing)
 
-#Aplicaió
+# Aplicaió
 La nostra aplicació funciona amb un client interactiu des d’una interfície gràfica, on es mostra un primer menú amb les tres part del projecte i dintre de cada una les diferents eines que podem executar:
 ![foto](/captures/foto1.png)
 ![foto](/captures/foto2.png)
