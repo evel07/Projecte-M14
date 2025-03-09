@@ -63,4 +63,4 @@ El primer que fem es accedir a l'enllaç de GitHub que hi ha al moodle i descarr
 ![foto](captures/ssh-audit.png)
 
 Una vegda descarregat i descomprimit mourem el fitxer ssh-audit.py a la carpeta de on tenim el codi del projecte.
-![foto](captures/ssh-audit1.png)
+![foto](captures/ssh-audit1.png) 
