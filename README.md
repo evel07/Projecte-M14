@@ -38,4 +38,19 @@ La nostra aplicació funciona amb un client interactiu des d’una interfície g
 ![foto](/captures/foto4.png)
 
 # Fase de Reconeixement
-La nostra aplicació funciona amb una interficie grafica, 
+## Shodan
+El primer que hem de fer es impiortar l'eina de shodan.
+![foto](captures/foto5.png)
+
+L'script te una funció principal on importem la nostra api de shodan que la hem obtingut una vegada ens hem registrat a la web.
+![foto](captures/foto6.png)
+
+### Comprovació de funcionalitat de Shodan
+
+## The Harvester
+### Comprovació de funcionalitat de TheHarvester
+
+## OSINT
+Per a l'aparta de OSINT natros hem utilitzat l'eina de WHOIS
+### Comprovació de funcionalitat de TheHarvester
+
