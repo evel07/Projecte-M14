@@ -52,5 +52,10 @@ L'script te una funció principal on importem la nostra api de shodan que la hem
 
 ## OSINT
 Per a l'aparta de OSINT natros hem utilitzat l'eina de WHOIS
-### Comprovació de funcionalitat de TheHarvester
+### Comprovació de funcionalitat de OSINT
 
+# Auditoria de Serveis
+## Escaneig
+### Comprovació de funcionalitat d'escaieng
+
+## SSH Audit
