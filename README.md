@@ -59,3 +59,5 @@ Per a l'aparta de OSINT natros hem utilitzat l'eina de WHOIS
 ### Comprovació de funcionalitat d'escaieng
 
 ## SSH Audit
+El primer que fem es accedir a l'enllaç de GitHub que hi ha al moodle i descarregem el zip d'SSH Audit
+![foto](captures/ssh-audit.png)
