@@ -39,7 +39,8 @@ La nostra aplicació funciona amb un client interactiu des d’una interfície g
 
 # Fase de Reconeixement
 ## Shodan
-El primer que hem de fer es impiortar l'eina de shodan.
+El primer que hem de fer es impiortar l'eina de shodan. 
+
 ![foto](captures/import_shodan.png)
 
 L'script te una funció principal on importem la nostra api de shodan que la hem obtingut una vegada ens hem registrat a la web.
