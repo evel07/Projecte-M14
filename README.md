@@ -81,7 +81,7 @@ Per a l'aparta de OSINT natros hem utilitzat les eines de WHOIS, DNS i NSLOOKUP
 ![foto](captures/dns.png)
 
 #### NSLOOKUP
-![foto](captures/nslokup.png)
+![foto](captures/nslookup.png)
 
 
 
