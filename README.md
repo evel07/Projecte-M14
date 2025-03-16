@@ -46,6 +46,8 @@ L'script te una funció principal on importem la nostra api de shodan que la hem
 ![foto](captures/foto6.png)
 
 ### Comprovació de funcionalitat de Shodan
+![foto](captures/shodan.png)
+
 
 ## The Harvester
 ### Comprovació de funcionalitat de TheHarvester
