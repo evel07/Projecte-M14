@@ -14,6 +14,9 @@
 - Funcionalitats afegides
   - [Bot Telegram amb Python](#bot-de-telegram)
   - [Crear un contenidor Docker](#contenidor-docker)
+  
+- Enllaç a la documentació tecnica
+  - [Documentació tecnica](#documentació-tecnica)
 
 # Preparació
 ## Anàlisi de Riscos
