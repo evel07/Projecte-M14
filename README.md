@@ -104,10 +104,8 @@ Busquem la informació dels serveis de noms (NS) d'un domini específic utilitza
 
 # Auditoria de Serveis
 ## Escaneig
-![foto](captures/escaneig.png)
-
 ### Codi
-
+Aquesta funció realitza diferents tipus d'escanejos de xarxa mitjançant la biblioteca nmap, depenent de l'opció especificada, i mostra els resultats en un widget de text.
 ![foto](captures/codi_nmap.png)
 
 ### Comprovació de funcionalitat d'escaieng
