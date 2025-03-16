@@ -129,6 +129,10 @@ El primer que fem es accedir a l'enllaç de GitHub que hi ha al moodle i descarr
 Una vegda descarregat i descomprimit mourem el fitxer ssh-audit.py a la carpeta de on tenim el codi del projecte.
 ![foto](captures/ssh1.png) 
 
+### Codi
+Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzant l'script ssh-audit.py, mostrant els resultats en un widget de text i gestionat possibles errors que puguin produir-se
+![foto](captures/codi_ssh-audit.png) 
+
 #### Comprovació
 ![foto](captures/ssh-audit1.png) 
 ![foto](captures/ssh-audit2.png) 
