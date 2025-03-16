@@ -59,8 +59,31 @@ Funció per a Shodan
 ### Comprovació de funcionalitat de TheHarvester
 
 ## OSINT
-Per a l'aparta de OSINT natros hem utilitzat l'eina de WHOIS
+Per a l'aparta de OSINT natros hem utilitzat les eines de WHOIS, DNS i NSLOOKUP
+
+### Codi per a WHOIS
+![foto](captures/codi_whois.png)
+
+### Codi per a DNS
+![foto](captures/codi_dns.png)
+
+### Codi per a NSLOOKUP
+![foto](captures/codi_nslookup.png)
+
+
 ### Comprovació de funcionalitat de OSINT
+![foto](captures/osint.png)
+
+#### WHOIS
+![foto](captures/whois.png)
+
+#### DNS
+![foto](captures/dns.png)
+
+#### NSLOOKUP
+![foto](captures/nslokup.png)
+
+
 
 # Auditoria de Serveis
 ## Escaneig
