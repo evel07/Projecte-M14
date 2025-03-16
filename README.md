@@ -74,14 +74,17 @@ Per a l'aparta de OSINT natros hem utilitzat les eines de WHOIS, DNS i NSLOOKUP
 
 #### Codi per a WHOIS
 Busquem la informació WHOIS d'un domini específic utilitzant el comandament whois, mostrem els resultats en un widget de text i gestionem possibles errors que puguin produir-se durant l'execució del comandament.
+
 ![foto](captures/codi_whois.png)
 
 #### Codi per a DNS
 Busquem la informació DNS d'un domini específic utilitzant el comandament dig, mostrem els resultats en un widget de text i gestiona possibles error.
+
 ![foto](captures/codi_dns.png)
 
 #### Codi per a NSLOOKUP
 Busquem la informació dels serveis de noms (NS) d'un domini específic utilitzant el comandament nslookup, mostrem els resultats en un widget de text i gestiona possibles error.
+
 ![foto](captures/codi_nslookup.png)
 
 
@@ -101,7 +104,24 @@ Busquem la informació dels serveis de noms (NS) d'un domini específic utilitza
 
 # Auditoria de Serveis
 ## Escaneig
+![foto](captures/escaneig.png)
+
+### Codi
+
+![foto](captures/codi_nmap.png)
+
 ### Comprovació de funcionalitat d'escaieng
+#### Descobrir Hosts de Xarxa
+![foto](captures/nmap_hosts.png)
+
+#### Escaneig de ports oberts
+![foto](captures/nmap_ports.png)
+
+#### Serveis i versions
+![foto](captures/nmap_serveis.png)
+
+#### Vulnerabilitats
+![foto](captures/nmap_vuln.png)
 
 
 ## SSH Audit
