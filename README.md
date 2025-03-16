@@ -140,6 +140,8 @@ Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzan
 ![foto](captures/ssh-audit4.png) 
 
 
+## Enum4linux
+
 
 
 # Enllaç a la documentació tecnica
