@@ -113,5 +113,6 @@ Una vegda descarregat i descomprimit mourem el fitxer ssh-audit.py a la carpeta 
 
 
 
-# Enllaç a la Documentació Tecnica
+# Enllaç a la documentació tecnica
+## Documentació tecnica
 [Enllaç Documentació tecnica](https://docs.google.com/document/d/1RJuZT7iGfF3JmYe5F83f2J6hP29RNNS_z-rVkVAYCM0/edit?usp=sharing)
