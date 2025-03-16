@@ -27,6 +27,8 @@ Aquest document definirà els registres, prioritats i classificacions de les ini
 - Títol: acció.
 - Cost: el cost a assumir per l’empresa (Baix, Mitjà, Alt).
 - Prioritat: necessitat de realitzar la tasca (Baix, Mitjà, Alt).
+  
+![foto](/captures/analisi_riscos.png)
 
 [Enllaç al document d'anàlisi de riscos](https://docs.google.com/spreadsheets/d/1dkS1hjHjmgNUccRZiNJE737dglgypASPBg6EmL8X3DU/edit?usp=sharing)
 
