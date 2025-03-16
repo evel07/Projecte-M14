@@ -47,27 +47,36 @@ L'script te una funció principal on importem la nostra api de shodan que la hem
 ![foto](captures/api.png)
 ![foto](captures/codi_api.png)
 
-Funció per a Shodan
+#### Funció per a Shodan
+El que fem amb aquesta funció es busca informació d'una adreça IP utilitzant l'API de Shodan, mostra els resultats en un widget de text i gestiona possibles errors que puguin produir-se durant la crida a l'API.
 ![foto](captures/codi_shodan.png)
-
 
 ### Comprovació de funcionalitat de Shodan
 ![foto](captures/shodan.png)
 
 
 ## The Harvester
+#### Codi
+![foto](captures/codi_theHarvester.png)
+
 ### Comprovació de funcionalitat de TheHarvester
+![foto](captures/theHarvester_terminal.png)
+![foto](captures/theHarvester_codi.png)
+
 
 ## OSINT
 Per a l'aparta de OSINT natros hem utilitzat les eines de WHOIS, DNS i NSLOOKUP
 
-### Codi per a WHOIS
+#### Codi per a WHOIS
+Busquem la informació WHOIS d'un domini específic utilitzant el comandament whois, mostrem els resultats en un widget de text i gestionem possibles errors que puguin produir-se durant l'execució del comandament.
 ![foto](captures/codi_whois.png)
 
-### Codi per a DNS
+#### Codi per a DNS
+Busquem la informació DNS d'un domini específic utilitzant el comandament dig, mostrem els resultats en un widget de text i gestiona possibles error.
 ![foto](captures/codi_dns.png)
 
-### Codi per a NSLOOKUP
+#### Codi per a NSLOOKUP
+Busquem la informació dels serveis de noms (NS) d'un domini específic utilitzant el comandament nslookup, mostrem els resultats en un widget de text i gestiona possibles error.
 ![foto](captures/codi_nslookup.png)
 
 
@@ -88,6 +97,7 @@ Per a l'aparta de OSINT natros hem utilitzat les eines de WHOIS, DNS i NSLOOKUP
 # Auditoria de Serveis
 ## Escaneig
 ### Comprovació de funcionalitat d'escaieng
+
 
 ## SSH Audit
 El primer que fem es accedir a l'enllaç de GitHub que hi ha al moodle i descarregem el zip d'SSH Audit
