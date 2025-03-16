@@ -28,8 +28,8 @@ Aquest document definirà els registres, prioritats i classificacions de les ini
 
 - Identificador: identifica cada cas.
 - Títol: acció.
-- Cost: el cost a assumir per l’empresa (Baix, Mitjà, Alt).
-- Prioritat: necessitat de realitzar la tasca (Baix, Mitjà, Alt).
+- Probabilitat: la probabilitat de que pase (Baix, Mitjà, Alt).
+- Impacte: l’impacte que pot tenir sobre l’empresa (Baix, Mitjà, Alt).
   
 ![foto](/captures/analisi_riscos.png)
 
