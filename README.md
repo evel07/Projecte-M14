@@ -45,6 +45,9 @@ El primer que hem de fer es impiortar l'eina de shodan.
 
 L'script te una funció principal on importem la nostra api de shodan que la hem obtingut una vegada ens hem registrat a la web.
 ![foto](captures/api.png)
+![foto](captures/codi_api.png)
+
+Funció per a Shodan
 ![foto](captures/codi_shodan.png)
 
 
