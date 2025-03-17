@@ -205,8 +205,8 @@ Mostrem el procés de construcció d'una imatge Docker
 ![foto](captures/docker3.png) 
 
 
-# Enllaç a la documentació tecnica
-## Documentació tecnica
+# Enllaç a la documentació tècnica
+## Documentació tècnica
 [Enllaç Documentació tecnica](https://docs.google.com/document/d/1RJuZT7iGfF3JmYe5F83f2J6hP29RNNS_z-rVkVAYCM0/edit?usp=sharing)
 
 # Enllaç a la Presentació
