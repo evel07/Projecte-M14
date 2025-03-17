@@ -37,10 +37,14 @@ Aquest document definirà els registres, prioritats i classificacions de les ini
 
 # Aplicaió
 La nostra aplicació funciona amb un client interactiu des d’una interfície gràfica, on es mostra un primer menú amb les tres part del projecte i dintre de cada una les diferents eines que podem executar:
-![foto](/captures/foto1.png)
-![foto](/captures/foto2.png)
-![foto](/captures/foto3.png)
-![foto](/captures/foto4.png)
+![foto](/captures/app_shodan.png)
+![foto](/captures/app_theHarvester.png)
+![foto](/captures/app_osint.png)
+![foto](/captures/app_nmap.png)
+![foto](/captures/app_ssh.png)
+![foto](/captures/app_enum4linux.png)
+![foto](/captures/app_telegram.png)
+![foto](/captures/app_docker.png)
 
 # Fase de Reconeixement
 ## Shodan
