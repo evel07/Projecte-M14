@@ -177,6 +177,13 @@ Una vegada tenim el token i el id per al chat afegim el següent al nostre codi:
 
 
 ## Docker
+### Codi
+![foto](captures/docker.png) 
+
+### Execució del Docker
+![foto](captures/docker1.png) 
+![foto](captures/docker2.png) 
+![foto](captures/docker3.png) 
 
 
 # Enllaç a la documentació tecnica
