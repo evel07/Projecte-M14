@@ -145,7 +145,25 @@ Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzan
 
 
 ## Enum4linux
+### Codi
+![foto](captures/codi_enum4linux.png) 
 
+#### Comprovació
+![foto](captures/enum4linux1.png) 
+![foto](captures/enum4linux2.png) 
+![foto](captures/enum4linux3.png) 
+![foto](captures/enum4linux4.png) 
+![foto](captures/enum4linux5.png) 
+![foto](captures/enum4linux6.png) 
+![foto](captures/enum4linux7.png) 
+
+
+
+# Auditoria de Serveis
+## Bot de Telegram
+
+
+## Docker
 
 
 # Enllaç a la documentació tecnica
