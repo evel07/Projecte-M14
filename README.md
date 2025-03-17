@@ -184,6 +184,7 @@ Una vegada tenim el token i el id per al chat afegim el següent al nostre codi:
 ![foto](captures/token_id.png) 
 
 ### Codi
+Amb aquest codi permet enviar missatges a Telegram mitjançant una sol·licitud GET a l'API de Telegram. El missatge es mostra per terminal si es produeix algun error durant l'execució del codi.
 ![foto](captures/codi_telegram.png) 
 
 ### Comprovació
