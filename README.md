@@ -72,9 +72,13 @@ Amb aquest codi permet llançar l'eina de recerca d'informació "The Harvester" 
 
 ### Comprovació de funcionalitat de TheHarvester
 ![foto](captures/theHarvester_terminal.png)
+
 ![foto](captures/theHarvester1.png)
+
 ![foto](captures/theHarvester2.png)
+
 ![foto](captures/theHarvester3.png)
+
 ![foto](captures/theHarvester4.png)
 
 
