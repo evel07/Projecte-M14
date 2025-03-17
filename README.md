@@ -67,11 +67,15 @@ El que fem amb aquesta funció es busca informació d'una adreça IP utilitzant 
 
 ## The Harvester
 #### Codi
+Amb aquest codi permet llançar l'eina de recerca d'informació "The Harvester" amb uns paràmetres específics i mostrar els missatges de progrés i errors al widget de text.
 ![foto](captures/codi_theHarvester.png)
 
 ### Comprovació de funcionalitat de TheHarvester
 ![foto](captures/theHarvester_terminal.png)
-![foto](captures/theHarvester_codi.png)
+![foto](captures/theHarvester1.png)
+![foto](captures/theHarvester2.png)
+![foto](captures/theHarvester3.png)
+![foto](captures/theHarvester4.png)
 
 
 ## OSINT
@@ -147,15 +151,21 @@ Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzan
 
 ## Enum4linux
 ### Codi
+Aquesta funció permet llançar l'eina de seguretat ssh-audit per a una adreça IP específica, mostrant el progrés i els missatges d'error al widget de text. També ofereix la possibilitat de guardar els resultats en un fitxer si l'usuari ho desitja.
 ![foto](captures/codi_enum4linux.png) 
 
 #### Comprovació
+Executem enum4linux sobre la ip 192.168.203.1110
 ![foto](captures/enum4linux1.png) 
+La sortida inclou informació sobre l'adreça IP objectiu, els rangs de RID utilitzats, els noms d'usuaris coneguts, el nom del grup de treball o domini, l'estat del servei de treballador, l'adreça MAC i la possibilitat de realitzar sessions amb un nom d'usuari i contrasenya buits.
 ![foto](captures/enum4linux2.png) 
+La sortida inclou informació sobre el sistema operatiu, els usuaris, les comparticions disponibles i els intents de connexió amb diferents protocols.
 ![foto](captures/enum4linux3.png) 
 ![foto](captures/enum4linux4.png) 
+Informació sobre els dominis, les contrasenyes, els grups i les membresies de grups disponibles en el sistema.
 ![foto](captures/enum4linux5.png) 
 ![foto](captures/enum4linux6.png) 
+ informació sobre els usuaris, els grups locals i els intents de connexió amb diferents SIDs. També mostra els errors que es van produir durant l'execució de l'eina.
 ![foto](captures/enum4linux7.png) 
 
 
@@ -192,7 +202,7 @@ Mostrem el procés de construcció d'una imatge Docker
 ## Documentació tecnica
 [Enllaç Documentació tecnica](https://docs.google.com/document/d/1RJuZT7iGfF3JmYe5F83f2J6hP29RNNS_z-rVkVAYCM0/edit?usp=sharing)
 
-# Enllaç a la Presntació
+# Enllaç a la Presentació
 ## Presentació 
 [Enllaç Presentació](https://docs.google.com/presentation/d/1hxn37gL0Ufniwav9qWYyjvPVIz-bpv2q/edit?usp=sharing&ouid=106287193611256113978&rtpof=true&sd=true)
 
