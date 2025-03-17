@@ -4,18 +4,20 @@
 - Preparació
   - [Anàlisi de riscos](#anàlisi-de-riscos)
 - Fase de reconeixement
-  - [Consulta API Shodan amb Python](#eina-api-de-shodan)
-  - [The Harvester Python](#the-harvester)
-  - [Més OSINT](#més-osint-infoga)
+  - [Shodan](#Shodan)
+  - [The Harvester](#the-Harvester)
+  - [OSINT](#osint)
 - Auditoria de serveis
-  - [Escaneig](#escanneig)
+  - [Escaneig](#escaneig)
   - [SSH](#ssh-audit)
   - [Enum4linux](#enum4linux)
 - Funcionalitats afegides
   - [Bot Telegram amb Python](#bot-de-telegram)
-  - [Crear un contenidor Docker](#contenidor-docker)
+  - [Docker](#docker)
 - Enllaç a la documentació tecnica
   - [Documentació tecnica](#documentació-tecnica)
+- Enllaç a la presentació
+  - [Presentació](#presentació)
 
 # Preparació
 ## Anàlisi de Riscos
@@ -177,15 +179,20 @@ Una vegada tenim el token i el id per al chat afegim el següent al nostre codi:
 
 
 ## Docker
-### Codi
-![foto](captures/docker.png) 
-
 ### Execució del Docker
+Aquest script construeix una imatge Docker, configura l'accés al servidor.
 ![foto](captures/docker1.png) 
+Configurem una imatge Docker amb totes les dependències necessàries per executar el codi.
 ![foto](captures/docker2.png) 
+Mostrem el procés de construcció d'una imatge Docker 
 ![foto](captures/docker3.png) 
 
 
 # Enllaç a la documentació tecnica
 ## Documentació tecnica
 [Enllaç Documentació tecnica](https://docs.google.com/document/d/1RJuZT7iGfF3JmYe5F83f2J6hP29RNNS_z-rVkVAYCM0/edit?usp=sharing)
+
+# Enllaç a la Presntació
+## Presentació 
+[Enllaç Presentació](https://docs.google.com/presentation/d/1hxn37gL0Ufniwav9qWYyjvPVIz-bpv2q/edit?usp=sharing&ouid=106287193611256113978&rtpof=true&sd=true)
+
