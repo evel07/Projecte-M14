@@ -158,7 +158,7 @@ Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzan
 
 
 
-# Auditoria de Serveis
+# Funcionalitats afegides
 ## Bot de Telegram
 
 
