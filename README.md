@@ -196,8 +196,10 @@ Una vegada tenim el token i el id per al chat afegim el següent al nostre codi:
 ### Execució del Docker
 Aquest script construeix una imatge Docker, configura l'accés al servidor.
 ![foto](captures/docker1.png) 
+
 Configurem una imatge Docker amb totes les dependències necessàries per executar el codi.
 ![foto](captures/docker2.png) 
+
 Mostrem el procés de construcció d'una imatge Docker 
 ![foto](captures/docker3.png) 
 
