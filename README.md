@@ -1,20 +1,19 @@
 # Projecte-M14
+### Fet per Adriana Cosma i Evelyn Nofuentes
 # Index
 - Preparació
   - [Anàlisi de riscos](#anàlisi-de-riscos)
 - Fase de reconeixement
   - [Consulta API Shodan amb Python](#eina-api-de-shodan)
   - [The Harvester Python](#the-harvester)
-  - [Més OSINT](#més-osint----infoga)
-
+  - [Més OSINT](#més-osint-infoga)
 - Auditoria de serveis
   - [Escaneig](#escanneig)
   - [SSH](#ssh-audit)
-  - [Enumeració](#enumeració)
+  - [Enum4linux](#enum4linux)
 - Funcionalitats afegides
   - [Bot Telegram amb Python](#bot-de-telegram)
   - [Crear un contenidor Docker](#contenidor-docker)
-  
 - Enllaç a la documentació tecnica
   - [Documentació tecnica](#documentació-tecnica)
 
