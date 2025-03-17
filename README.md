@@ -160,6 +160,20 @@ Realitzem una auditoria de seguretat SSH en una adreça IP específica utilitzan
 
 # Funcionalitats afegides
 ## Bot de Telegram
+Primer accedim a telegram per a poder obtenir les dades necesaries per al bot.
+![foto](captures/bot1.png) 
+![foto](captures/bot2.png) 
+
+Una vegada tenim el token i el id per al chat afegim el següent al nostre codi:
+![foto](captures/token_id.png) 
+
+### Codi
+![foto](captures/codi_telegram.png) 
+
+### Comprovació
+![foto](captures/telegram1.png) 
+![foto](captures/telegram2.png) 
+![foto](captures/telegram3.png) 
 
 
 ## Docker
